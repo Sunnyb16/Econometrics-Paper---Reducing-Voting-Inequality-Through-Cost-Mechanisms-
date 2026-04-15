@@ -1,4 +1,4 @@
-# Econometrics-Paper---Reducing-Voting-Inequality-Through-Cost-Mechanisms-
+# Econometrics Paper - Reducing Voting Inequality Through Cost Reduction Mechanisms-
 This project investigates voter roll-off behavior with a focus on voter cost reduction - Logistic regression
 Econometrics of Voter Roll-Off in Local Elections
 
